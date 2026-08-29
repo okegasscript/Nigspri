@@ -32,7 +32,7 @@ local TARGET_ITEMS = {
 local SHOPS = {
     "Blood Moon Shop",
     "Twilight Shop",
-    "Easter Event Shop",
+    "Easter Seed Shop",
     "New Years Shop",
     "Goliath's Friends Deals"
 }
