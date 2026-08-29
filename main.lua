@@ -14,13 +14,27 @@ local TARGET_ITEMS = {
     "Moon Mango Seed",
     "Blood Banana Seed",
     "Moon Melon Seed",
-    "Springtide Egg"
+    "Springtide Egg",
+    "Firework",
+    "New Year's Firework",
+    "Dragon's Firework",
+    "Party Sign",
+    "Disco Ball",
+    "Sparkle Slice Seed",
+    "New Year's Egg",
+    "Skyroot Chest",
+    "Pet Mutation Shard Giantbean",
+    "Flare Melon",
+    "Glowpod",
+    "Can Of Beans"
 }
 
 local SHOPS = {
     "Blood Moon Shop",
     "Twilight Shop",
-    "Easter Event Shop"
+    "Easter Event Shop",
+    "New Years Shop",
+    "Goliath's Friends Deals"
 }
 
 local DELAY_AFTER_RESTOCK = 2.5
