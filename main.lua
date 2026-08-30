@@ -8,7 +8,6 @@ local RefreshFunction = GameEvents:WaitForChild("HarvestMoonIndexService"):WaitF
 local TARGET_ITEMS = {
     "Night",
     "Night Egg",
-    "Moon Cat",
     "Night Seed Pack",
     "Celestiberry Seed",
     "Moon Mango Seed",
